@@ -2677,7 +2677,7 @@ html.platform-win[lang=en-US]:not(.app-focused) body:not(.oldTitleBarEnabled-D8p
   color: var(--text-normal);
   font-size: var(--font-size);
   font-weight: var(--font-weight-normal);
-  height: 29px;
+  height: 43px;
   padding: 0 var(--spacing);
   display: flex;
   align-items: center;
